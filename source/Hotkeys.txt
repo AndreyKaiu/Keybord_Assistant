@@ -1,0 +1,23 @@
+CapsLock = LCtrl; 
+LShift   = switch layouts: Russian
+RShift   = switch layouts: US
+LCtrl    = 
+LAlt + Space = switch layouts: French; Belarusian
+RAlt     = Disable; switch layouts: Russian; US
+RWin     = Disable; 
+RCtrl    = RAlt; 
+Alt + CapsLock = CapsLock ON
+LShift + RShift = CapsLock ON
+Shift = CapsLock OFF
+------------------------------------------------------------------------------
+LAlt Add Chars  = YES
+RAlt Add Chars  = YES
+RAlt Add Cursor = YES
+RAlt Add Mouse  = YES
+RWin Birman Layout = YES
+------------------------------------------------------------------------------
+Ctrl + Alt + V = Paste text without formatting by Ctrl+Alt+V
+Alt + Pause = change case to lower by Alt+Pause (upper Alt+Shift+Pause)
+Alt + Scroll Lock = translit_1  (file: Cyr_to_Eng_int_passport.ini)
+Alt + Shift + Scroll Lock = translit_2  (file: Cyr_to_FileNameEng.ini)
+Alt + Win + Scroll Lock = Special transliteration for the Alt_Win_ScrollLock.ini
